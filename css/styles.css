@@ -1,0 +1,32 @@
+.bg-red {
+    background-color: salmon;
+    }
+
+
+.bg-gris {
+    background-color: #2b3035;
+    }
+
+.c-verdemate {
+    color: #587f53;
+    }
+
+.btn-gris{
+    background-color: #2b3035;
+color: white;
+}
+
+.btn-verde{
+    color:#587f53 ;
+}
+
+.btn-gris:hover {
+    border: 2px solid #587f53;
+    background-color: white;
+    color: #587f53;
+    }
+
+footer i:hover {
+    color: #587f53;
+    }
+
